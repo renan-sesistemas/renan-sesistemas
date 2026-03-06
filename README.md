@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=250&section=header&text=Renan%20Evilásio&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Desenvolvedor%20ERP%20|%20Delphi%20|%20Python%20|%20Laravel&descAlignY=60&descSize=20&descColor=a0c4ff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3b82f6,100:1a1a2e&height=250&section=header&text=Renan%20Evilásio&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=SE%20Sistemas%20|%20Desenvolvedor%20ERP%20|%20Delphi%20|%20Python%20|%20Laravel&descAlignY=60&descSize=20&descColor=a0c4ff" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ Olá! Eu sou o **Renan**, estudante de **Ciência da Computação no IFMG – Ca
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenanESO&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renan-sesistemas&theme=tokyonight" />
 </p>
 
 ---
