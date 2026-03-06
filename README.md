@@ -27,7 +27,6 @@ Olá! Eu sou o **Renan**, estudante de **Ciência da Computação no IFMG – Ca
 - 🎓 Cursando **Ciência da Computação** no IFMG – Campus Formiga
 - 💡 Apaixonado por **código limpo**, bem identado e comentado
 - 🌱 Sempre aprendendo novas tecnologias
-- 🤝 Aberto a colaborações e novos projetos
 
 ---
 
@@ -64,7 +63,7 @@ Olá! Eu sou o **Renan**, estudante de **Ciência da Computação no IFMG – Ca
 
 **🏢 S.E. Sistemas — Desenvolvedor Delphi**
 📅 Jul/2020 – Atual • Formiga, MG
-> Desenvolvimento e manutenção de soluções ERP com foco em qualidade, legibilidade e manutenção do código. Atuação com Delphi, FireMonkey, DevExpress, ACBr e MySQL.
+> Desenvolvimento e manutenção de soluções ERP com foco em qualidade, legibilidade e manutenção do código. Atuação com Delphi, FireMonkey, DevExpress, ACBr e ADS.
 
 ---
 
